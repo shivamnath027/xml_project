@@ -1,0 +1,43 @@
+<!-- <xs:schema xmlns:xs = "http://www.w3.org/2001/XMLSchema">
+<xs:element name="employee" type="EmployeeType"/>
+<xs:complexType name="EmployeeType">
+    <xs:sequence>
+        <xs:element name="empname" type= "xs:string"/>
+        <xs:element name="dept" type= "xs:string"/>
+        <xs:element name="salary" type= "xs:int"/>
+        <xs:element name="companyname" type= "xs:string"/>
+    </xs:sequence>
+</xs:complexType>
+</xs:schema> -->
+
+
+<!-- <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="employee" type="EmployeeType"/>
+  <xs:complexType name="EmployeeType">
+    <xs:sequence>
+      <xs:element name="empname" type="string" minOccurs="1" maxOccurs="1"/>
+      <xs:element name="dept" type="string" minOccurs="1" maxOccurs="1"/>
+      <xs:element name="salary" type="int" minOccurs="1" maxOccurs="1"/>
+      <xs:element name="companyname" type="string" minOccurs="1" maxOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema> -->
+
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="employees">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="employee" type="EmployeeType" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="EmployeeType">
+    <xs:sequence>
+      <xs:element name="empname" type="xs:string" minOccurs="1" maxOccurs="1"/>
+      <xs:element name="dept" type="xs:string" minOccurs="1" maxOccurs="1"/>
+      <xs:element name="salary" type="xs:int" minOccurs="1" maxOccurs="1"/>
+      <xs:element name="companyname" type="xs:string" minOccurs="1" maxOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

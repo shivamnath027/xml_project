@@ -1,0 +1,7 @@
+C:\Users\52470252\Desktop\xml_project\xml_proj\bin\Debug\xml_proj.exe.config
+C:\Users\52470252\Desktop\xml_project\xml_proj\bin\Debug\xml_proj.exe
+C:\Users\52470252\Desktop\xml_project\xml_proj\bin\Debug\xml_proj.pdb
+C:\Users\52470252\Desktop\xml_project\xml_proj\obj\Debug\xml_proj.csproj.AssemblyReference.cache
+C:\Users\52470252\Desktop\xml_project\xml_proj\obj\Debug\xml_proj.csproj.CoreCompileInputs.cache
+C:\Users\52470252\Desktop\xml_project\xml_proj\obj\Debug\xml_proj.exe
+C:\Users\52470252\Desktop\xml_project\xml_proj\obj\Debug\xml_proj.pdb

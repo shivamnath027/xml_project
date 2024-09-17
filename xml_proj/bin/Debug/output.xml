@@ -1,0 +1,8 @@
+<employees>
+  <employee>
+    <empname>Harsha</empname>
+    <dept>IT</dept>
+    <salary>5000</salary>
+    <companyname>ITC</companyname>
+  </employee>
+</employees>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <employee>
+  <empname>Shivam Nath</empname>
+  <dept>IT</dept>
+  <salary>1000</salary>
+  <companyname>Conduent</companyname>
+</employee>
+<employee>
+  <empname>Harsha</empname>
+  <dept>IT</dept>
+  <salary>5000</salary>
+  <companyname>ITC</companyname>
+</employee>
+<employee>
+  <empname>Rakshith</empname>
+  <dept>HR</dept>
+  <salary>7000</salary>
+  <companyname>UST</companyname>
+</employee> -->
+
+<employees>
+  <employee>
+    <empname>Shivam Nath</empname>
+    <dept>IT</dept>
+    <salary>1000</salary>
+    <companyname>Conduent</companyname>
+  </employee>
+  <employee>
+    <empname>Harsha</empname>
+    <dept>IT</dept>
+    <salary>5000</salary>
+    <companyname>ITC</companyname>
+  </employee>
+  <employee>
+    <empname>Rakshith</empname>
+    <dept>HR</dept>
+    <salary>7000</salary>
+    <companyname>UST</companyname>
+  </employee>
+</employees>
